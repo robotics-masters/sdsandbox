@@ -35,6 +35,16 @@ public void LoadRoboRacingLeague1Scene()
     SceneManager.LoadSceneAsync(6);
 }
 
+public void LoadAWS2018Scene()
+{
+    SceneManager.LoadSceneAsync(7);
+}
+
+public void LoadAWS2019Scene()
+{
+    SceneManager.LoadSceneAsync(8);
+}
+
 public void QuitApplication()
 {
     Application.Quit();

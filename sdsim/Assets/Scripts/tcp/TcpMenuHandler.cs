@@ -117,6 +117,14 @@ namespace tk
             {
                 loader.LoadRoboRacingLeague1Scene();
             }
+            else if (scene_name == "aws2018")
+            {
+                loader.LoadAWS2018Scene();
+            }
+            else if (scene_name == "aws2019")
+            {
+                loader.LoadAWS2019Scene();
+            }
         }
         
         void OnQuitApp(JSONObject json)

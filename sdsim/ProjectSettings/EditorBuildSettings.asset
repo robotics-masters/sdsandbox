@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/roboracingleague_1.unity
     guid: b37ac42fbc7419143a38115aec8b91ba
+  - enabled: 1
+    path: Assets/Scenes/aws2018.unity
+    guid: ffbec2f74b11dd947b2a1457aa4a0536
+  - enabled: 1
+    path: Assets/Scenes/aws2019.unity
+    guid: 1759a9b797ee49a4480adbc49b079664
   m_configObjects: {}
